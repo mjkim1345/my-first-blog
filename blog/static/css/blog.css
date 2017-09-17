@@ -49,5 +49,6 @@ h1, h2, h3, h4 {
 }
 
 .post h1 a, .post h1 a:visited .post {
+    font-family: 'Lobster', cursive;
     color: #476600;
 }
